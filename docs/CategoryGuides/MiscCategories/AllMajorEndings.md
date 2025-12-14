@@ -191,16 +191,6 @@ Alternatively, you can wrong warp into the room and open your punch card before 
 
 With both methods, you can also use the few moments where Napstablook is leaving the room to wrong warp in the next room. After getting the skip, go right, mash 3 lines of text, then mash the last line of text after you walk a little bit past the sign. Hold up and right as you enter the transition, and let go afterward to perform the wrong warp.
 
-#### The EXP Check (IMPORTANT)
-
-At some point during Waterfall, you need to check what your EXP is. This route has you very close to saving a turn on Mettaton, so to save that turn you need to buff your attack. The two ways to do this are to kill Vulkin and to buy and use a Legendary Hero.
-
-- If you currently have 630 EXP or more, then killing Vulkin is the fastest way to buff your attack.
-- If you currently have 629 EXP or fewer, then killing Vulkin will not work and you will have to buy a Legendary hero anyway.
-- Alternatively, buying a legendary hero always works and loses less than a second if you do it when you don't have to.
-
-Remember for later whether your EXP was high or low. 
-
 #### Flowerflow
 
 In the next room, a somewhat complicated trick called flowerflow is used to shorten the distance needed to walk after the cutscene. Overflow the flower, close the punch card, then open the punch card again while also closing the “Behind You” text. This is done by X and then Enter (or otherwise any button to finish text followed by a button to close the text) in the window where you cannot close the punch card. Next walk towards the left of the room. Be careful not to walk too far that the screen scrolls or the part in the cutscene where Undyne carries Monster Kid away will be longer. Open your menu, ready to use the punch card. You can also use the cell phone instead, which is slightly easier. When undyne starts talking, use the punch card or cell phone and mash through her text. After Undyne has finished talking, quickly reopen the punch card/cell phone. If you do not open the punch card or cell phone fast enough, you will lose movement. Wait for monster kid to start talking and mash away the punch card/cell phone and continue mashing away text in the rest of the cutscene.
@@ -284,9 +274,9 @@ Get very used to doing hotland. You will pass through hotland a bunch during the
 
 If I transcribed the whole Hotland section over from neutral every time, this guide would be extremely long. [Here's the link](/CategoryGuides/MainCategories/Neutral?id=Hotland "UTSR Guides - Neutral") to the Neutral guide's section on Hotland.
 
-When you encounter Vulkin, kill it if your EXP was HIGH (>=630). You should level up. If you don't, you misremembered your EXP and will have to buy a Hero later.
 
-After activating the first cutscene in Core, but before getting your menu back, go to the Burgerpants shop and buy a Legendary Hero if your EXP was LOW (<630). If you didn't check your EXP or don't remember what it was, it loses around 2 seconds to just buy the hero every time.
+
+After activating the first cutscene in Core, but before getting your menu back, go to the Burgerpants shop and buy a Legendary Hero. Previous versions of this guide spoke of an "EXP check strat", where you would check your EXP in waterfall and, if it was higher than 630 you would kill Vulkin instead. This can save a few seconds, however the Legendary Hero increases your attack by more than leveling up would and crucially allows you to miss a quad on Mettaton without having to take an extra turn. Because of this it is strongly recommended to always buy a Legendary Hero.
 
 #### Mettaton
 
@@ -298,7 +288,7 @@ Mettaton consists of two phases. During the first phase, Mettaton is invulnerabl
 - During the second attack, SPARE and don't get hit.
 - During the third attack, SPARE and don't get hit.
 - During the fourth attack, SPARE and don't get hit. The fourth attack will be the first one to have a bomb. 
-- For the fifth attack, if you have a legendary hero, you should use it now. Otherwise, SPARE again.
+- For the fifth attack, use your legendary hero.
 - Finally for the sixth attack, ACT and select the "Yellow" option and the fight will begin.
 
 ##### Second Phase.
