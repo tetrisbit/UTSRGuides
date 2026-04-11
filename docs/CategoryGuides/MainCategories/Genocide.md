@@ -36,7 +36,7 @@ In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away
 
 In the next room, mash away Toriel's text and follow her. You will encounter a Froggit. Hit the Froggit with a critical attack for 20 or more damage to increase your LV to 2; if you hit the Froggit for 19 or less, it's a reset. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
-Alternatively, you can do Toriel Skip. Note that in Genocide, Toriel Skip also skips the first frog. Also Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for begginers to do Toriel Skip.
+Alternatively, you can do Toriel Skip. Note that in Genocide, Toriel Skip also skips the first frog. Also Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for beginners to do Toriel Skip.
 
 Toriel Skip saves around 25 seconds, due to skipping the dummy room, the handholding room, and the first frog. This is less time than in other categories due to being at a lower level on the first encounter grind.
 
@@ -79,7 +79,7 @@ In the first room with the leaves, you will get a phone call at the very beginni
 - If you get a Froggit, land one accurate hit on it. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> when it begins to attack. If you get the frog attack, you will run into the frog and end the turn early. If you get the flies attack, simply dodge the flies. After enduring the attack, finish it off with a semi-accurate hit.
   - You can predict the Froggit's attack based on what it says. “Meow” and “Hop Hop” = Flies attack, “Ribbit” = Frog attack, “Croak” = 50% chance for either attack. Overall, you have a ~40% chance to get a Frog Attack.
 
-After ending the encounter, go into the next room and begin Wall Humping immediately; grind out another encounter. Alternate between these two rooms & grind encounters until you have 11 kills total.
+After ending the encounter, go into the next room and begin Wall Humping immediately; grind out another encounter. Alternate between these two rooms & grind encounters until you have 9 kills total.
 
 After grinding out 9 kills, go to the 2nd room with the cracked floor, fall into the pit, and head through the door on the right. Grind out one more encounter for a total of 10 kills before going to the next room.
 
