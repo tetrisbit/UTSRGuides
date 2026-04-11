@@ -380,14 +380,14 @@ There is a glitch you can do to get the Burnt Pan in the lab called Early Burnt 
 
 EBP involves utilizing the old lab skip and overflowing on the fridge without the use of overflowing with a Punch Card.
 
-Walk to the right of the dog food bag. Hold <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd> when you're to the right of the dog food bag. Next hold <kbd>▶ Right</kbd> while still holding <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd>. You should be right next to the trigger. Open your menu. You can let go of the arrow keys once your menu is open. Next, you will need to press <kbd>C</kbd> and <kbd>Enter</kbd>/<kbd>Ctrl</kbd> and <kbd>Z</kbd> on consecutive frames. This is just like overflowing with the Punch Card. If done correctly, the text box should come up and the cutscene should start. Close the text box to regain movement.
+Walk to the right of the dog food bag. Hold <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd> when you're to the right of the dog food bag. Next hold <kbd>▶ Right</kbd> while still holding <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd>. You should be right next to the trigger. Open your menu. You can let go of the arrow keys once your menu is open. Next, you will need to press <kbd>X</kbd> and <kbd>Enter</kbd>/<kbd>Shift</kbd> and <kbd>Z</kbd> on consecutive frames. This is just like overflowing with the Punch Card. If done correctly, the text box should come up and the cutscene should start. Close the text box to regain movement.
 
 After that, walk to the fridge and wait for Mettaton to say something. Mash that first bit of text. Your character will move to the right, and it will appear that you can't move, but you actually can move - you're just invisible. Interact with the fridge and press <kbd>X</kbd> to skip the text. You'll then want to listen for further text sounds. When you hear more text sounds, mash some more. Once Mettaton exits to the right, the cutscene will end, and you should have the Burnt Pan & Instant Noodles in your inventory. If you mashed quickly enough, you may notice you have regained movement and still have a textbox from the fridge open. You can use this to OWW into the next room to save a little bit of time. Alternatively, you can use/drop the stick while the camera is panning back to you to get text storage off of that as well.
 
 After getting the Burnt Pan, exit the lab through the right exit. You may choose to equip the Burnt Pan before leaving the lab (for a more reliable kill on Tsunderplane), but this is slightly slower than using the Ballet Shoes.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/eUaOHWOKYyM" title="Early Pan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=DmnEZTGBSes" title="Beginner EBP Video Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### The beginning of Hotland
