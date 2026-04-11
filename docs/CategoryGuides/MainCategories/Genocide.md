@@ -384,10 +384,10 @@ Walk to the right of the dog food bag. Hold <kbd>▲ Up</kbd> and <kbd>◀ Left<
 
 When performing EBP, you can time your inputs closer together than a standard overflow. This makes it less likely to mess up by making the inputs too far apart, and the ITEM menu protects you from closing your menu if you pressed <kbd>X</kbd> and <kbd>Z</kbd> on the same frame. If you don't have any items, you can achieve the same effect by menuing down to STAT before performing EBP.
 
-After that, walk to the fridge and wait for Mettaton to say something. Mash that first bit of text. Your character will move to the right, and it will appear that you can't move, but you actually can move - you're just invisible. Interact with the fridge and press <kbd>X</kbd> to skip the text. You'll then want to listen for further text sounds. When you hear more text sounds, mash some more. See the video example below.
+After that, walk to the fridge and wait for Mettaton to say something. Mash that first bit of text. Your character will move to the right, and it will appear that you can't move, but you actually can move - you're just invisible. Interact with the fridge and press <kbd>X</kbd> to skip the text. You'll then want to listen for further text sounds. When you hear more text sounds, mash some more. See the EBP video demonstration below.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=DmnEZTGBSes" title="Beginner EBP Video Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1699" height="955" src="https://www.youtube.com/embed/DmnEZTGBSes" title="Beginner EBP Video Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 The next strat is called Super Lab Overflow Warp (SLOW) and it's performed immediately after mashing the text to get the Burnt Pan. This strat is difficult to visualize because the version of Frisk you control is invisible, so you'll have to use your imagination.
@@ -397,6 +397,14 @@ Immediately after mashing the last bit of text to get the Burnt Pan, hold <kbd>�
 Next, you'll want to try and interact with something right before the end of the cutscene. You can either use the hole in the wall or the bathroom sign. The hole is easier to reach, but the bathroom sign is faster. Alternatively, you can use an item right before the end of the cutscene, but this is also slightly slower than the bathroom sign.
 
 To interact with the hole or the bathroom sign, switch from holding <kbd>▶ Right</kbd> to holding <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> at the appropriate time and start mashing <kbd>Z</kbd>/<kbd>Enter</kbd> until you see the hole text or the bathroom sign text. If you overshoot and walk past the bathroom sign, you'll interrupt the cutscene and lose some time, so this may be worth practicing. Once you have the text open, you'll be given movement (and become visible again) at the end of the cutscene with text storage. You can then use this text to wrong warp into the next room.
+
+If you find the text overflow part too difficult or inconsistent, you can just hold <kbd>▲ Up</kbd>+<kbd>▶ Right</kbd> for some easy timesave over doing nothing. You'll end up in the hole in the wall, so there's no risk of overshooting.
+
+Video demonstration:
+
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="1699" height="955" src="https://www.youtube.com/embed/pXEAz6Y7TL8" title="Fastest EBP SLOW strat with safe EBP via Stats menu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 After exiting the lab, you may choose to equip the Burnt Pan right away (for a more reliable kill on Tsunderplane), but this is slightly slower than using the Ballet Shoes. Otherwise, continue with the Ballet Shoes equipped.
 
