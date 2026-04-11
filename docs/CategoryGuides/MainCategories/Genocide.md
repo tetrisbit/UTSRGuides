@@ -222,7 +222,9 @@ Optimal RNG is getting the Icecap/Jerry encounter up until 10-12 kills. After th
 
 After getting the necessary kills, head into Snowdin. Walk right, past the shop and the inn. Don't use the save point or the box. Use the igloo to get to the other side of town faster. After leaving the igloo, exit through the right side of town.
 
-Walk down the hallway. Once the silhouettes of both Frisk and Papyrus appear, Papyrus will begin to talk. Mash all the text and begin the battle.
+There's a strat in the Papyrus boss room that can save some time after the fight. While walking into the fog, you'll see a gap in the trees above followed by a lone tree. Hold <kbd>▲ Up</kbd> into this lone tree and tap <kbd>▶ Right</kbd> to move one step at a time until you slide off the edge of the tree and into the cutscene trigger. This will save approximately 1.3 seconds by placing you further into the room after the battle.
+
+Once the silhouettes of both Frisk and Papyrus appear, Papyrus will begin to talk. Mash all the text and begin the battle.
 
 Immediately FIGHT Papyrus and hit him. Any hit will kill him. After hitting Papyrus, wait for him to die. When you regain movement, walk right and enter Waterfall.
 
@@ -486,7 +488,7 @@ Go up to the elevator. Interact with the elevator to open the door. Go inside th
 
 After exiting the Elevator, save at the save point to the right if you think you might die to the enemies in the Core or need a quick heal. After saving (or not), exit left onto the bridge hallway.
 
-In the hallway with the bridge, immediately begin grinding & killing encounters. This will be your grinding spot until you reach 25 kills. The first five encounters are scripted and you do not need to worry about the RNG here.
+In the hallway with the bridge, immediately begin grinding & killing encounters. This will be your grinding spot until you reach 20 kills. The first five encounters are scripted and you do not need to worry about the RNG here.
 
 - The triple encounter is the most preferable one.
 - The double encounter with the Astigmatism and/or Whimsalot and/or Final Froggit are the 2nd best encounters. These monsters will require only very accurate hits to one-hit kill. (Astigmatism will require 2 perfect hits with the Empty Gun and 3 perfect hits with the Pan. Final Froggit / Whimsalot will require 1 or 2 perfect hits or 4 very accurate hits).
