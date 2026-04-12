@@ -395,7 +395,7 @@ When performing EBP, you can time your inputs closer together than a standard ov
 After that, walk to the fridge and wait for Mettaton to say something. Mash that first bit of text. Your character will move to the right, and it will appear that you can't move, but you actually can move - you're just invisible. Interact with the fridge and press <kbd>X</kbd> to skip the text. You'll then want to listen for further text sounds. When you hear more text sounds, mash some more. See the EBP video demonstration below.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="1699" height="955" src="https://www.youtube.com/embed/DmnEZTGBSes" title="Beginner EBP Video Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/DmnEZTGBSes" title="Beginner EBP Video Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 The next strat is called Super Lab Overflow Warp (SLOW) and it's performed immediately after mashing the text to get the Burnt Pan. This strat is difficult to visualize because the version of Frisk you control is invisible, so you'll have to use your imagination.
@@ -411,7 +411,7 @@ If you find the text overflow part too difficult or inconsistent, you can just h
 Video demonstration:
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="1699" height="955" src="https://www.youtube.com/embed/pXEAz6Y7TL8" title="Fastest EBP SLOW strat with safe EBP via Stats menu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/pXEAz6Y7TL8" title="Fastest EBP SLOW strat with safe EBP via Stats menu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 After exiting the lab, you may choose to equip the Burnt Pan right away (for a more reliable kill on Tsunderplane), but this is slightly slower than using the Ballet Shoes. Otherwise, continue with the Ballet Shoes equipped.
