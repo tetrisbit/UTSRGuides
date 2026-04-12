@@ -51,11 +51,11 @@ In the first room with the leaves, you will get a phone call at the very beginni
 - If you get a Froggit, land one accurate hit on it. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> when it begins to attack. If you get the frog attack, you will run into the frog and end the turn early. If you get the flies attack, simply dodge the flies. After enduring the attack, finish it off with a semi-accurate hit.
   - You can predict the Froggit's attack based on what it says. “Meow” and “Hop Hop” = Flies attack, “Ribbit” = Frog attack, “Croak” = 50% chance for either attack. Overall, you have a ~40% chance to get a Frog Attack.
 
-After ending the encounter, go into the next room and begin Wall Humping immediately; grind out another encounter. Alternate between these two rooms & grind encounters until you have 11 kills total.
+After ending the encounter, go into the next room and begin Wall Humping immediately; grind out another encounter. Alternate between these two rooms & grind encounters until you have 9 kills total.
 
-After grinding out 11 kills, go to the 2nd room with the cracked floor, fall into the pit, and head through the door on the right. Grind out one more encounter for a total of 12 kills before going to the next room.
+After grinding out 9 kills, go to the 2nd room with the cracked floor, fall into the pit, and head through the door on the right. Grind out one more encounter for a total of 10 kills before going to the next room.
 
-In the room with the single rock, you will receive two phone calls at the beginning. Hold <kbd>▼ Down</kbd> & <kbd>▶ Right</kbd> into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 13 kills. Exit the room.
+In the room with the single rock, you will receive two phone calls at the beginning. Hold <kbd>▼ Down</kbd> & <kbd>▶ Right</kbd> into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 11 kills. Exit the room.
 
 You can skip the third phone call by reading the sign along the top wall before pushing the rock. This saves a small amount of time.
 
@@ -216,7 +216,11 @@ Continue walking right, wait through the cutscene and exit to the right after ma
 
 In the first flower bridge room, just head right. The flower bridge will already be constructed for you.
 
-In the second flower bridge room, you will get a scripted encounter with Aaron before crossing the bridge. FLEE from Aaron as soon as the encounter begins. Cross the bridge, head up, cross over the river on the flower bridge, and head through the doorway at the top.
+In the second flower bridge room, you will get a scripted encounter with Aaron before crossing the bridge. Aaron can either be killed or fled, but there's a tradeoff. Fleeing Aaron saves about 7 seconds with good RNG, but it loses about 35 seconds with bad RNG due to needing to grind out one more encounter at the end of Waterfall. These two possibilities are roughly equally likely, so fleeing Aaron is slower on average.
+
+Because of this, it's recommended to kill the first Aaron with two yellow hits. However, you can also flee if you want to risk the run for the additional timesave.
+
+Cross the bridge, head up, cross over the river on the flower bridge, and head through the doorway at the top.
 
 In the telescope puzzle room, skip the telescope and head upwards towards the secret exit. You will get a scripted encounter with Woshua. FIGHT Woshua and dispatch them with a green hit followed by a red hit. Exit through the doorway at the top of the screen.
 
