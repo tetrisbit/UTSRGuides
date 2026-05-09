@@ -12,7 +12,7 @@ The Genocide category focuses on optimally killing all the monsters necessary fo
 
 > Kills Required: 20
 
-### Handholding
+### Handholding / Toriel Skip
 
 After hitting “Yes” at the name selection, you should hold <kbd>▶ Right</kbd>, so you can start moving as soon as possible.
 
@@ -20,7 +20,7 @@ Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey an
 
 Mash away the text as soon as Flowey talks to you. After Flowey winks, you won't be able to mash the text away. Instead, repeatedly press <kbd>Z</kbd> and <kbd>Enter</kbd>, so you will end the text as soon as it reaches the end.
 
-After Flowey winks, you will want to position yourself a little bit to the right of the top left corner. Being here will ensure that you get hit by the ~~bullets~~ friendliness pellets as soon as possible.
+After Flowey winks, you will want to go all the way to the top left corner. Being here will ensure that you get hit by the ~~bullets~~ friendliness pellets as soon as possible.
 
 After being hit by the friendliness pellets, hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd>. Moving to the bottom left corner and holding down the <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd> arrow keys will make the circle attack hit you quicker than normal.
 
@@ -35,6 +35,34 @@ This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>�
 In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away Toriel's text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
 In the next room, mash away Toriel's text and follow her. You will encounter a Froggit. Hit the Froggit with a critical attack for 20 or more damage to increase your LV to 2; if you hit the Froggit for 19 or less, it's a reset. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
+
+Alternatively, you can do Toriel Skip. Note that in Genocide, Toriel Skip also skips the first frog. Also Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for beginners to do Toriel Skip.
+
+Toriel Skip saves around 25 seconds, due to skipping the dummy room, the handholding room, and the first frog. This is less time than in other categories due to being at a lower level on the first encounter grind.
+
+When entering the dummy room, mash toriel's text and then hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> until you're right next to Toriel, mash until you're on the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time), and then holding right and doing two consecutive z/enter inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info) This moves you one pixel to the right inside of toriel.
+
+From here, there are 3 methods you can do:
+
+1. The double overflow method - Advance to Toriel's last textbox, hold right, and do two consecutive z/enter inputs, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+
+2. The tap method - Release right and clear Toriel's text Press z or enter and then right on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+
+3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text 
+
+A few miscellaneous points:
+
+If you enter the next room normally, you either didn't mash fast enough or you didn't release right soon enough.
+
+If you softlock, you either overmashed and interacted with Toriel a second time or your final z/enter input was a frame late and you didn't mash fast enough.
+
+If you don't release right, the mashing becomes frame perfect.
+
+If your final z/enter press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
+
+If you make the correct inputs, you have 3 possible frames to clear the text and successfully wrong warp.
+
+Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order x > z > lshift > enter, rolling/sliding across the three keys on the left and then pressing enter at the end.
 
 This next room is the hardest room in the game. Walk right and mash away Toriel's text.
 
@@ -51,11 +79,11 @@ In the first room with the leaves, you will get a phone call at the very beginni
 - If you get a Froggit, land one accurate hit on it. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> when it begins to attack. If you get the frog attack, you will run into the frog and end the turn early. If you get the flies attack, simply dodge the flies. After enduring the attack, finish it off with a semi-accurate hit.
   - You can predict the Froggit's attack based on what it says. “Meow” and “Hop Hop” = Flies attack, “Ribbit” = Frog attack, “Croak” = 50% chance for either attack. Overall, you have a ~40% chance to get a Frog Attack.
 
-After ending the encounter, go into the next room and begin Wall Humping immediately; grind out another encounter. Alternate between these two rooms & grind encounters until you have 11 kills total.
+After ending the encounter, go into the next room and begin Wall Humping immediately; grind out another encounter. Alternate between these two rooms & grind encounters until you have 9 kills total.
 
-After grinding out 11 kills, go to the 2nd room with the cracked floor, fall into the pit, and head through the door on the right. Grind out one more encounter for a total of 12 kills before going to the next room.
+After grinding out 9 kills, go to the 2nd room with the cracked floor, fall into the pit, and head through the door on the right. Grind out one more encounter for a total of 10 kills before going to the next room.
 
-In the room with the single rock, you will receive two phone calls at the beginning. Hold <kbd>▼ Down</kbd> & <kbd>▶ Right</kbd> into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 13 kills. Exit the room.
+In the room with the single rock, you will receive two phone calls at the beginning. Hold <kbd>▼ Down</kbd> & <kbd>▶ Right</kbd> into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 11 kills. Exit the room.
 
 You can skip the third phone call by reading the sign along the top wall before pushing the rock. This saves a small amount of time.
 
@@ -194,7 +222,9 @@ Optimal RNG is getting the Icecap/Jerry encounter up until 10-12 kills. After th
 
 After getting the necessary kills, head into Snowdin. Walk right, past the shop and the inn. Don't use the save point or the box. Use the igloo to get to the other side of town faster. After leaving the igloo, exit through the right side of town.
 
-Walk down the hallway. Once the silhouettes of both Frisk and Papyrus appear, Papyrus will begin to talk. Mash all the text and begin the battle.
+There's a strat in the Papyrus boss room that can save some time after the fight. While walking into the fog, you'll see a gap in the trees above followed by a lone tree. Hold <kbd>▲ Up</kbd> into this lone tree and tap <kbd>▶ Right</kbd> to move one step at a time until you slide off the edge of the tree and into the cutscene trigger. This will save approximately 1.3 seconds by placing you further into the room after the battle.
+
+Once the silhouettes of both Frisk and Papyrus appear, Papyrus will begin to talk. Mash all the text and begin the battle.
 
 Immediately FIGHT Papyrus and hit him. Any hit will kill him. After hitting Papyrus, wait for him to die. When you regain movement, walk right and enter Waterfall.
 
@@ -220,7 +250,7 @@ The first method is known as the 5 Buffer Method. To perform this method, first 
 
 Next, press <kbd>Ctrl</kbd>+<kbd>▶ Right</kbd>+<kbd>Enter</kbd> all on the same frame to move to the right, open your menu, and select the highlighted menu option, and then mash <kbd>Z</kbd>/<kbd>Enter</kbd> to use the cell phone. You only have 5 frames between moving right and the cutscene starting, so you need to perform this quickly. If you performed SGS correctly, you'll see text on the screen as the camera pans to Undyne. Mash away this text and continue to the right, making sure to stay on the lower half of the path to avoid running into the save point.
 
-The second method is known as the 1 Buffer Setup or Shayy Setup. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold <kbd>▼ Down</kbd> until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
+The second method is known as the 1 Buffer Setup. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold <kbd>▼ Down</kbd> until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
 
 The third method, the fastest but also the most difficult, is known as the 0 Buffer Setup. When you enter the room, walk all the way to the top. Walk into the papyrus cutscene, and mash away his text. Continue holding <kbd>▶ Right</kbd>. After walking 5-8 frames, press <kbd>C</kbd>+<kbd>Z</kbd> and then <kbd>Enter</kbd>, or <kbd>Ctrl</kbd>+<kbd>Enter</kbd> and then <kbd>Z</kbd>. This method only saves a second over the previous 2.
 
@@ -234,7 +264,11 @@ Video demonstration for the 3 setups:
 
 In the first flower bridge room, just head right. The flower bridge will already be constructed for you.
 
-In the second flower bridge room, you will get a scripted encounter with Aaron before crossing the bridge. FLEE from Aaron as soon as the encounter begins. Cross the bridge, head up, cross over the river on the flower bridge, and head through the doorway at the top.
+In the second flower bridge room, you will get a scripted encounter with Aaron before crossing the bridge. Aaron can either be killed or fled, but there's a tradeoff. Fleeing Aaron saves about 7 seconds with good RNG, but it loses about 35 seconds with bad RNG due to needing to grind out one more encounter at the end of Waterfall. These two possibilities are roughly equally likely, so fleeing Aaron is slower on average.
+
+Because of this, it's recommended to kill the first Aaron with two yellow hits. However, you can also flee if you want to risk the run for the additional timesave.
+
+Cross the bridge, head up, cross over the river on the flower bridge, and head through the doorway at the top.
 
 In the telescope puzzle room, skip the telescope and head upwards towards the secret exit. You will get a scripted encounter with Woshua. FIGHT Woshua and dispatch them with a green hit followed by a red hit. Exit through the doorway at the top of the screen.
 
@@ -243,7 +277,9 @@ In the Bridge room, head right and ride the wooden platform across the water. Ex
 In the long bridge room, Undyne will appear and begin to throw spears at you as you navigate to the next room. You need to minimize the amount of times you get hit by the spears & to minimize the time you spend stopping to avoid them.
 
 You can manipulate the angle at which the spears are thrown based on your position on the walkway. This can help you dodge, but keep in mind that Undyne's spears have a bit of RNG involved with them. You still need to pay attention to the spears direction even if you've angled them favorably.
+
 Frisk's hitbox is weird; they can get hit slightly below their feet, and the majority of their head doesn't really seem to have a hitbox.
+
 In the second room of the chase, hold <kbd>▶ Right</kbd> to avoid the spears. A cutscene will play when you've reached the end of the chase. Hold <kbd>▶ Right</kbd> to move as soon as the cutscene ends. After exiting the patch of grass, Monster Kid will appear and talk to you. Mash their text and then exit the room through the right.
 
 Don't bother saving in the crystallized cheese room unless you are in need of health.
@@ -344,7 +380,7 @@ After defeating Undyne the Undying, mash her death cutscene. Proceed to the righ
 
 > Kills Required: 5
 
-### The Lab & Early Pan
+### The Lab & Early Burnt Pan
 
 Don't bother using the save point unless you're in desperate need of heals. Walk right and enter the lab.
 
@@ -352,15 +388,33 @@ There is a glitch you can do to get the Burnt Pan in the lab called Early Burnt 
 
 EBP involves utilizing the old lab skip and overflowing on the fridge without the use of overflowing with a Punch Card.
 
-Walk to the right of the dog food bag. Hold <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd> when you're to the right of the dog food bag. Next hold <kbd>▶ Right</kbd> while still holding <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd>. You should be right next to the trigger. Open your menu. You can let go of the arrow keys once your menu is open. Next, you will need to press <kbd>C</kbd> and <kbd>Enter</kbd>/<kbd>Ctrl</kbd> and <kbd>Z</kbd> on consecutive frames. This is just like overflowing with the Punch Card. If done correctly, the text box should come up and the cutscene should start. Close the text box to regain movement.
+Walk to the right of the dog food bag. Hold <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd> when you're to the right of the dog food bag. Next hold <kbd>▶ Right</kbd> while still holding <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd>. You should be right next to the trigger. Open your menu. You can let go of the arrow keys once your menu is open. Next, you will need to press <kbd>X</kbd> and <kbd>Enter</kbd>/<kbd>Shift</kbd> and <kbd>Z</kbd> on consecutive frames. This is just like overflowing with the Punch Card. If done correctly, the textbox should come up and the cutscene should start. Close the text box to regain movement.
 
-After that, walk to the fridge and wait for Mettaton to say something. Mash that first bit of text. Your character will move to the right, and it will appear that you can't move, but you actually can move - you're just invisible. Interact with the fridge and press <kbd>X</kbd> to skip the text. You'll then want to listen for further text sounds. When you hear more text sounds, mash some more. Once Mettaton exits to the right, the cutscene will end, and you should have the Burnt Pan & Instant Noodles in your inventory. If you mashed quickly enough, you may notice you have regained movement and still have a textbox from the fridge open. You can use this to OWW into the next room to save a little bit of time. Alternatively, you can use/drop the stick while the camera is panning back to you to get text storage off of that as well.
+When performing EBP, you can time your inputs closer together than a standard overflow. This makes it less likely to mess up by making the inputs too far apart, and the ITEM menu protects you from closing your menu if you pressed <kbd>X</kbd> and <kbd>Z</kbd> on the same frame. If you don't have any items, you can achieve the same effect by menuing down to STAT before performing EBP.
 
-After getting the Burnt Pan, exit the lab through the right exit. You may choose to equip the Burnt Pan before leaving the lab (for a more reliable kill on Tsunderplane), but this is slightly slower than using the Ballet Shoes.
+After that, walk to the fridge and wait for Mettaton to say something. Mash that first bit of text. Your character will move to the right, and it will appear that you can't move, but you actually can move - you're just invisible. Interact with the fridge and press <kbd>X</kbd> to skip the text. You'll then want to listen for further text sounds. When you hear more text sounds, mash some more. See the EBP video demonstration below.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/eUaOHWOKYyM" title="Early Pan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/DmnEZTGBSes" title="Beginner EBP Video Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+The next strat is called Super Lab Overflow Warp (SLOW) and it's performed immediately after mashing the text to get the Burnt Pan. This strat is difficult to visualize because the version of Frisk you control is invisible, so you'll have to use your imagination.
+
+Immediately after mashing the last bit of text to get the Burnt Pan, hold <kbd>▶ Right</kbd> and tap <kbd>▲ Up</kbd>. The <kbd>▲ Up</kbd> press is important to prevent you from being teleported back to the dogfood bag at the end of the cutscene.
+
+Next, you'll want to try and interact with something right before the end of the cutscene. You can either use the hole in the wall or the bathroom sign. The hole is easier to reach, but the bathroom sign is faster. Alternatively, you can use an item right before the end of the cutscene, but this is also slightly slower than the bathroom sign.
+
+To interact with the hole or the bathroom sign, switch from holding <kbd>▶ Right</kbd> to holding <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> at the appropriate time and start mashing <kbd>Z</kbd>/<kbd>Enter</kbd> until you see the hole text or the bathroom sign text. If you overshoot and walk past the bathroom sign, you'll interrupt the cutscene and lose some time, so this may be worth practicing. Once you have the text open, you'll be given movement (and become visible again) at the end of the cutscene with text storage. You can then use this text to wrong warp into the next room.
+
+If you find the text overflow part too difficult or inconsistent, you can just hold <kbd>▲ Up</kbd>+<kbd>▶ Right</kbd> for some easy timesave over doing nothing. You'll end up in the hole in the wall, so there's no risk of overshooting.
+
+Video demonstration:
+
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/pXEAz6Y7TL8" title="Fastest EBP SLOW strat with safe EBP via Stats menu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+After exiting the lab, you may choose to equip the Burnt Pan right away (for a more reliable kill on Tsunderplane), but this is slightly slower than using the Ballet Shoes. Otherwise, continue with the Ballet Shoes equipped.
 
 ### The beginning of Hotland
 
@@ -434,7 +488,7 @@ Go up to the elevator. Interact with the elevator to open the door. Go inside th
 
 After exiting the Elevator, save at the save point to the right if you think you might die to the enemies in the Core or need a quick heal. After saving (or not), exit left onto the bridge hallway.
 
-In the hallway with the bridge, immediately begin grinding & killing encounters. This will be your grinding spot until you reach 25 kills. The first five encounters are scripted and you do not need to worry about the RNG here.
+In the hallway with the bridge, immediately begin grinding & killing encounters. This will be your grinding spot until you reach 20 kills. The first five encounters are scripted and you do not need to worry about the RNG here.
 
 - The triple encounter is the most preferable one.
 - The double encounter with the Astigmatism and/or Whimsalot and/or Final Froggit are the 2nd best encounters. These monsters will require only very accurate hits to one-hit kill. (Astigmatism will require 2 perfect hits with the Empty Gun and 3 perfect hits with the Pan. Final Froggit / Whimsalot will require 1 or 2 perfect hits or 4 very accurate hits).

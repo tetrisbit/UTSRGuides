@@ -95,7 +95,7 @@ Overview:
 
 ### Snowdin
 
-Snowdin is the point in our run where we will diverge from the genocide route. Unfortunately, we are not able to kill all of the monsters in Snowdin because doing so would make the Nice Cream Man disappear, forcing us to complete Genocide without the punch card. Because of this, we will save immediately before exhausting the Snowdin kill count, then continue on with the papyrus ending.
+Snowdin is the point in our run where we will diverge from the genocide route. Unfortunately, we are not able to kill all of the monsters in Snowdin because doing so would make the Nice Cream Man disappear, forcing us to complete the Papyrus ending without the punch card. Because of this, we will save immediately before exhausting the Snowdin kill count, then continue on with the papyrus ending.
 
 #### Snowdin Forest
 
@@ -191,16 +191,6 @@ Alternatively, you can wrong warp into the room and open your punch card before 
 
 With both methods, you can also use the few moments where Napstablook is leaving the room to wrong warp in the next room. After getting the skip, go right, mash 3 lines of text, then mash the last line of text after you walk a little bit past the sign. Hold up and right as you enter the transition, and let go afterward to perform the wrong warp.
 
-#### The EXP Check (IMPORTANT)
-
-At some point during Waterfall, you need to check what your EXP is. This route has you very close to saving a turn on Mettaton, so to save that turn you need to buff your attack. The two ways to do this are to kill Vulkin and to buy and use a Legendary Hero.
-
-- If you currently have 630 EXP or more, then killing Vulkin is the fastest way to buff your attack.
-- If you currently have 629 EXP or fewer, then killing Vulkin will not work and you will have to buy a Legendary hero anyway.
-- Alternatively, buying a legendary hero always works and loses less than a second if you do it when you don't have to.
-
-Remember for later whether your EXP was high or low. 
-
 #### Flowerflow
 
 In the next room, a somewhat complicated trick called flowerflow is used to shorten the distance needed to walk after the cutscene. Overflow the flower, close the punch card, then open the punch card again while also closing the “Behind You” text. This is done by X and then Enter (or otherwise any button to finish text followed by a button to close the text) in the window where you cannot close the punch card. Next walk towards the left of the room. Be careful not to walk too far that the screen scrolls or the part in the cutscene where Undyne carries Monster Kid away will be longer. Open your menu, ready to use the punch card. You can also use the cell phone instead, which is slightly easier. When undyne starts talking, use the punch card or cell phone and mash through her text. After Undyne has finished talking, quickly reopen the punch card/cell phone. If you do not open the punch card or cell phone fast enough, you will lose movement. Wait for monster kid to start talking and mash away the punch card/cell phone and continue mashing away text in the rest of the cutscene.
@@ -284,9 +274,9 @@ Get very used to doing hotland. You will pass through hotland a bunch during the
 
 If I transcribed the whole Hotland section over from neutral every time, this guide would be extremely long. [Here's the link](/CategoryGuides/MainCategories/Neutral?id=Hotland "UTSR Guides - Neutral") to the Neutral guide's section on Hotland.
 
-When you encounter Vulkin, kill it if your EXP was HIGH (>=630). You should level up. If you don't, you misremembered your EXP and will have to buy a Hero later.
 
-After activating the first cutscene in Core, but before getting your menu back, go to the Burgerpants shop and buy a Legendary Hero if your EXP was LOW (<630). If you didn't check your EXP or don't remember what it was, it loses around 2 seconds to just buy the hero every time.
+
+After activating the first cutscene in Core, but before getting your menu back, go to the Burgerpants shop and buy a Legendary Hero. Previous versions of this guide spoke of an "EXP check strat", where you would check your EXP in waterfall and, if it was higher than 630 you would kill Vulkin instead. This can save a few seconds, however the Legendary Hero increases your attack by more than leveling up would and crucially allows you to miss a quad on Mettaton without having to take an extra turn. Because of this it is strongly recommended to always buy a Legendary Hero.
 
 #### Mettaton
 
@@ -298,7 +288,7 @@ Mettaton consists of two phases. During the first phase, Mettaton is invulnerabl
 - During the second attack, SPARE and don't get hit.
 - During the third attack, SPARE and don't get hit.
 - During the fourth attack, SPARE and don't get hit. The fourth attack will be the first one to have a bomb. 
-- For the fifth attack, if you have a legendary hero, you should use it now. Otherwise, SPARE again.
+- For the fifth attack, use your legendary hero.
 - Finally for the sixth attack, ACT and select the "Yellow" option and the fight will begin.
 
 ##### Second Phase.
@@ -399,11 +389,7 @@ After this, you are at 9 kills and want to grind until you have at least 20. At 
 
 ### New Home
 
-New Home is slightly different. Because you can mash through the text, magolor skip is no longer fast, and it is instead faster to do left side first.
-
-Wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. 
-
-After this head to the right side. You can try to get text storage and use it on the encounter like you would in a normal new home. Once you grab second key, head back to the center room like you would normally and unlock the gate. Continue through new home and asgore as normal.
+New home is the same as neutral/TPE glitchless, except with mashable text in monstertale/judgment hall. No other diffrences.
 
 ### Flowey
 
@@ -505,11 +491,17 @@ Wrong Warp Position:
 
 <img src='./Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
 
-Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game.
+Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene.
 
-Once you have PCE’d the second trigger, walk into the rock structure, then walk back out. Then, wrong warp back into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out). After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
+Optionally, you can also PCE this trigger, mash through until after the "NGAAAHHH" dialogue, and then call Toriel before mashing the rest of the dialogue. This saves a little time due to corrupting Undyne's text, but doesn't change the rest of the strat.
 
-Go to the second part below.
+Mash through Undyne's remaining dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game. Once you have PCE’d the second trigger, line up in the spot shown below. Note that the pixels will be different if you reload into the room than entering the room from the side.
+
+<img src='./Images/SafeOneCycleTNT.png'></img>
+
+Once you are in the above position, open the menu and then press <kbd>Z</kbd> three times quickly. This will open the punch card and skip Undyne's first textbox. Then, hold <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, wait for Undyne's second textbox to complete, and press <kbd>Z</kbd> one more time to close the punch card, regain movement, and advance to Undyne's third textbox. This technique is called TNT, and it allows you to get a wrong warp much easier than the other methods.
+
+When you appear in the next room, you will be at the other end of the hallway. Immediately go up and into the next hallway. Go to the second part below.
 
 It is still fully possible to do one of the other strategies described, however doing so is taking on somewhat more risk than it would be in other categories since you aren't able to safety save in the Undyne arena. 
 
@@ -533,13 +525,20 @@ In the room with the water cooler, PCE the cutscene with Undyne collapsing on th
 
 LEBP, or "late early burnt pan" is a strategy for AME and True 100% that allows you to fight Undyne with the Pan. **This should only be done if you successfully PCE'd the Undyne water cutscene.** Play through the game until you recieve the burnt pan normally. Make sure not to kill Vulkin because you are still setting up for dog ending. Equip the pan immediately. Wrong warp out of the pan room into the previous room, then **<span style="color: orange">SAVE</span>** at that room's save point. Continue as normal.
 
-### The Rest of the Ending
+### Hotland
 
-The rest of this ending is identical to the Neutral route, except for the following things
+Hotland is identical to the Neutral route, except for the following things
 - Do not save anywhere.
 - There is a useful backup for if you miss the Mettaton EX PCE. Start the battle as quickly as possible, then immediately die. This will reload you to the CORE puzzle due to Undertale's hidden "autosave" mechanic.
-- Complete Monstertale as described previously in the Alphys Ending.
-- After fighting Asgore, you will be placed in the final room of the game, just as in Alphys ending. You still want to wait to reload until you see the title screen, because that will shorten Flowey's text even more.
+
+### New Home
+
+New Home is slightly different. Because you can mash through the text, magolor skip is no longer fast, and it is instead faster to do left side first.
+
+Wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. 
+
+After this head to the right side. You can try to get text storage and use it on the encounter like you would in a normal new home. Once you grab second key, head back to the center room like you would normally and unlock the gate. Continue through new home and asgore as normal.
+After fighting Asgore, you will be placed in the final room of the game, just as in Alphys ending. You still want to wait to reload until you see the title screen, because that will shorten Flowey's text even more.
 
 ## Mettaton Ending
 
@@ -559,6 +558,7 @@ Also of note if you are coming from Magma Chamber is that the Undyne Water Trigg
 Once you are at the Undyne fight, attack Undyne until she dies. If you missed the water trigger and had to reload to before you obtained the Burnt Pan, you can do the previously described "Pacifist Kindergarten" strat. Otherwise, just melt Undyne with the Burnt Pan. Remember that everything after you set her HP to 0 is a cutscene and you can switch to sparing her at that point.
 
 ### Hotland
+
 Another Hotland that is identical to Neutral. Make sure you don't kill Vulkin as we are still on dog ending, but otherwise proceed as normal.
 
 ### Core
@@ -567,7 +567,7 @@ In this route we skip mettaton, but we would like to be able to fight him later.
 
 ### New Home
 
-Finish Monstertale as in the Alphys and Undyne Endings. **<span style="color: orange">SAVE</span>** in Judgement Hall. Continue through the Asgore fight as normal.  At this point Flowey's dialog is as short as it can get, so you should reload as soon as you touch the door in the final room of the game rather than waiting for the logo to appear.
+Finish Monstertale as in the Undyne Ending. **<span style="color: orange">SAVE</span>** in Judgement Hall. Continue through the Asgore fight as normal.  At this point Flowey's dialog is as short as it can get, so you should reload as soon as you touch the door in the final room of the game rather than waiting for the logo to appear.
 
 ## Dog Ending
 
@@ -592,7 +592,11 @@ You will attempt to open the punch card to get movement back, just like you did 
 
 The first phase of the fight is skipped because you are in NG+. The second phase of the fight is largely the same, however since you are a lower LV it will take a few more hits to kill him. Optimally you can finish the fight in 7 attacks. 
 
-After the Mettaton fight, be sure to wait until Alphys starts talking to close the punch card. Then walk out of the room. This time Alphys Elevator skip is not mandatory, though it does still save time. After doing long elevator skip, **<span style="color: orange">SAVE</span>** at the "Castle Elevator" save point. 
+After the Mettaton fight, be sure to wait until Alphys starts talking to close the punch card. Then walk out of the room. 
+
+It is crucial that you **DO NOT DO ALPHYS ELEVATOR SKIP** this ending. The first part of Alphys Elevator Skip where you PCE the "Sorry about that!" text is safe, but it is critical to not do the second part of the skip where you punch card the elevator door. If you do, the Mettaton room will be impassible and you will have to enter the Alphys Elevator room from the bottom and play through the cutscene normally, losing quite a bit of time.
+
+After doing long elevator skip, **<span style="color: orange">SAVE</span>** at the "Castle Elevator" save point. 
 
 At the top left of the following room, there is an elevator that allows you to skip Monstertale. Because you saved after completing it in the previous ending, you will be able to take this elevator. Do so. The Asgore fight and Flowey encounter are exactly the same as in the previous ending
 

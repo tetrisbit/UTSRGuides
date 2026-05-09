@@ -96,7 +96,7 @@ If you instead want to download v1.05 directly through the Steam console instead
 2. Install 1.08 Windows through Steam by opting out of any betas, if applicable. Allow Steam to fully install the game before continuing.
 3. Disconnect your copy of 1.08 by going to `C:\Program Files (x86)\Steam\steamapps\common\Undertale` and copying every file except for the ones named `data.win` and `steam_api.dll`, then creating a new folder somewhere else and pasting the copied files into the new folder. NOTE: the game path must only contain ASCII characters, so it cannot contain characters such as Japanese characters, Cyrillic characters, or characters with accent marks. This includes your username, if you created the new folder within your user folder.
 4. Open the Steam console by navigating to [steam://nav/console](steam://nav/console) in a web browser.
-5. Enter the following command into the Steam console: `download_depot 395140 395141 1584494420689681079`
+5. Enter the following command into the Steam console: `download_depot 391540 391541 1584494420689681079`
 6. Press Enter, then wait for the game to download. When the game finishes downloading, navigate to the folder `C:\Program Files (x86)\Steam\steamapps\content\app_391540\depot_391541` and copy the file named `data.win`. Then navigate back to the folder you created in step 3 and paste the `data.win` file.
 8. Run the game from `UNDERTALE.exe` in the newly created folder, which you will need to use to run the game instead of the Steam shortcut.
 
@@ -187,9 +187,13 @@ You will first need to disconnect Undertale from Steam (if you already did this,
 Next, locate your data.win. This file will be in your Undertale folder. You will need a hex value editor, like HxD. After finding your data.win, open it up with your hex editor, and change this value from 00 to 01:
 
 Version 1.0 - 725B24
+
 Version 1.001 (Non-Linux) - 725D8C
+
 Version 1.001 Linux - 725DDC
+
 Version 1.05+ - 7748C4
+
 You can use Control + G to search for the specific value.
 
 If you're trying to enable debug mode on a modded version of Undertale (such as the Automasher Mod), these hex addresses may not work. Alternatively, you can enable debug mode using UndertaleModTool.
@@ -233,19 +237,34 @@ Asgore’s and Mad Dummy’s battles will be altered slightly. Asgore will have 
 By using the ‘Home’ key in Debug, you can initiate a battle depending on what your ‘battle group’ is set to. Every battle in Undertale is assigned a specific battle group number. You can edit a value in the data.win to change your battle group, so that whenever you hit your Home key, you will begin the battle on the spot. This is useful for practicing difficult battles. Here’s the values you have to change to set the battle group:
 
 Version 1.0 - 9EB444
+
 Version 1.001 (Non-Linux) - 9F553C or 9EB414
+
 Version 1.001 Linux - 9EB918
+
 Version 1.05 - BD7CE4
+
 Version 1.05a - BD7D2C
+
 Version 1.06 - BD8200
+
 Version 1.08 - BD7810
+
 Here are some useful values you can set the battle group to:
 
 Asgore battle: 65
+
 Asriel battle: FF
+
 Sans battle: 5F
+
 Undyne the Undying battle: 5C
+
 Remember: You are not allowed to use Debug Mode for a normal run. Debug mode is not allowed for speedruns. It is only a tool for practicing skips.
+
+## Practice Mod
+
+Another way to practice is by using the [practice mod](https://github.com/fixylol/UndertalePracticeMod/releases). it provides stuff such as savestates, flag/inventory editing, enabling debug mode & so much more. if you want to practice undertale speedruns, this is the mod for you.
 
 ## Preparation before a speedrun
 
@@ -272,6 +291,13 @@ The only categories that have an exception to this rule are the New Game+ catego
 ### Remove Any Modifications
 
 As already stated in the Debug Mode section of the guide, using Debug Mode is not allowed in speedruns. To acquire Debug Mode, you must edit a value manually within the game. Editing your files is not allowed. Along with this, Debug Mode opens the window for potential cheating or run assistance. Even if you have Debug Mode enabled and don’t use any of the features, the game will still be manipulated and the game will show hidden values during certain fights, which gives an unfair advantage. Before doing a run, you must make sure you are using the regular, unedited data.win. There are very few exceptions to this, so make sure you read through the rules before you start.
+
+### Half Speed Automasher
+
+One of the exceptions for editing data.win is the half speed automasher mod.
+The half speed automasher adds the abilty to mash at 7.5 tbps, half of the fastest speed to mash text, by just holding a hotkey (space by default, see readme.txt in the automasher zip file to see how to change that hotkey).
+The goal of the half speed automasher is to increase the accessibility of Undertale speedrunning by allowing people who would be unable to mash for accessibility reasons to be able to use an automasher during normal runs.
+You can find the link to the half speed automasher, as well as installation instructions [here](https://www.speedrun.com/static/resource/t5gqu.zip?v=7ef12e1 "Link").
 
 ## Categories
 

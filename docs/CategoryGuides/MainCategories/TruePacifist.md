@@ -16,7 +16,7 @@ After hitting “Yes” at the name selection, you should hold <kbd>▶ Right</k
 
 Mash away the text as soon as Flowey talks to you. After Flowey winks, you won’t be able to mash the text away. Instead, repeatedly press <kbd>Z</kbd> and <kbd>Enter</kbd>, so you will end the text as soon as it reaches the end.
 
-After Flowey winks, you will want to position yourself a little bit to the right of the top left corner. Being here will ensure that you get hit by the bullets friendliness pellets as soon as possible.
+After Flowey winks, you will want to go all the way to the top left corner. Being here will ensure that you get hit by the bullets friendliness pellets as soon as possible.
 
 After being hit by the friendliness pellets, hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd>. Moving to the bottom left corner and holding down the <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd> arrow keys will make the circle attack hit you quicker than normal.
 
@@ -24,7 +24,7 @@ After being hit, prepare your mashing once again. Once Toriel appears, mash away
 
 You can hold <kbd>▲ Up</kbd> while mashing the text to move upwards as soon as you are able to. After mashing away Toriel's text, follow her upwards into the next room.
 
-### The beginning of Ruins
+### The beginning of Ruins / Toriel Skip
 
 In the first room, walk up the staircase around the save point and into the door. Don’t bother saving, it just wastes time. In the next room, mash away Toriel’s text and hold <kbd>▲ Up</kbd>. You don’t need to move left or right to enter the door.
 
@@ -33,6 +33,34 @@ This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>�
 In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away Toriel’s text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
 In the next room, mash away Toriel’s text and follow her. You will encounter a froggit. Flee from the froggit. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
+
+Alternatively, you can do Toriel Skip. Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for begginers to do Toriel Skip.
+
+Toriel Skip saves around 30 seconds, due to skipping the dummy room, and the handholding room.
+
+When entering the dummy room, mash toriel's text and then hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> until you're right next to Toriel, mash until you're on the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time), and then holding right and doing two consecutive z/enter inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info) This moves you one pixel to the right inside of toriel.
+
+From here, there are 3 methods you can do:
+
+1. The double overflow method - Advance to Toriel's last textbox, hold right, and do two consecutive z/enter inputs, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+
+2. The tap method - Release right and clear Toriel's text Press z or enter and then right on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+
+3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text 
+
+A few miscellaneous points:
+
+If you enter the next room normally, you either didn't mash fast enough or you didn't release right soon enough.
+
+If you softlock, you either overmashed and interacted with Toriel a second time or your final z/enter input was a frame late and you didn't mash fast enough.
+
+If you don't release right, the mashing becomes frame perfect.
+
+If your final z/enter press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
+
+If you make the correct inputs, you have 3 possible frames to clear the text and successfully wrong warp.
+
+Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order x > z > lshift > enter, rolling/sliding across the three keys on the left and then pressing enter at the end.
 
 This next room is the hardest room in the game. Walk right and mash away toriel’s text.
 
@@ -271,7 +299,7 @@ The first method is known as the 5 Buffer Method. To perform this method, first 
 
 Next, press <kbd>Ctrl</kbd>+<kbd>▶ Right</kbd>+<kbd>Enter</kbd> all on the same frame to move to the right, open your menu, and select the highlighted menu option, and then mash <kbd>Z</kbd>/<kbd>Enter</kbd> to use the cell phone. You only have 5 frames between moving right and the cutscene starting, so you need to perform this quickly. If you performed SGS correctly, you’ll see text on the screen as the camera pans to Undyne. Mash away this text and continue to the right, making sure to stay on the lower half of the path to avoid running into the save point.
 
-The second method is known as the 1 Buffer Setup or Shayy Setup. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold <kbd>▼ Down</kbd> until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
+The second method is known as the 1 Buffer Setup. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold <kbd>▼ Down</kbd> until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
 
 The third method, the fastest but also the most difficult, is known as the 0 Buffer Setup. When you enter the room, walk all the way to the top. Walk into the papyrus cutscene, and mash away his text. Continue holding <kbd>▶ Right</kbd>. After walking 5-8 frames, press <kbd>C</kbd>+<kbd>Z</kbd> and then <kbd>Enter</kbd>, or <kbd>Ctrl</kbd>+<kbd>Enter</kbd> and then <kbd>Z</kbd>. This method only saves a second over the previous 2.
 
@@ -471,16 +499,26 @@ Wrong Warp Position:
 
 <img src='./Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
 
-#### Safe One Cycle Undyne (1 PCE + 1 Wrong Warp)
+#### Safe One Cycle Undyne (1 PCE + 1 TNT)
 
-Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game.
-Once you have PCE’d the second trigger, walk into the rock structure, then walk back out. Then, wrong warp back into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out). After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
-Go to the second part below.
+Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene.
+
+Optionally, you can also PCE this trigger, mash through until after the "NGAAAHHH" dialogue, and then call Toriel before mashing the rest of the dialogue. This saves a little time due to corrupting Undyne's text, but doesn't change the rest of the strat.
+
+Mash through Undyne's remaining dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game. Once you have PCE’d the second trigger, line up in the spot shown below. Note that the pixels will be different if you reload into the room than entering the room from the side.
+
+<img src='./Images/SafeOneCycleTNT.png'></img>
+
+Once you are in the above position, open the menu and then press <kbd>Z</kbd> three times quickly. This will open the punch card and skip Undyne's first textbox. Then, hold <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, wait for Undyne's second textbox to complete, and press <kbd>Z</kbd> one more time to close the punch card, regain movement, and advance to Undyne's third textbox. This technique is called TNT, and it allows you to get a wrong warp much easier than the other methods.
+
+When you appear in the next room, you will be at the other end of the hallway. Immediately go up and into the next hallway. Go to the second part below.
 
 #### Quick Once Cycle Undyne (2 PCE’s + 1 wrong warp)
 
 Walk into the room and begin walking up the path. PCE the first trigger. After successfully PCEing the first trigger, immediately go to the second trigger. You will have a small amount of time to know where you are before the screen pans upwards. The time save here is dependent on how fast you PCE the second trigger. If you don’t manage to PCE the trigger before the screen stops on Undyne, stop attempting and just mash the dialogue in the cutscene. If you run into the trigger, your run is over (unless you’re okay with a huge time loss).
+
 If you manage to PCE the second trigger quick enough, walk into the rock structure and walk back out. Mash through the cutscene and wrong warp into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out).
+
 In this version you skip the screen panning up to Undyne. This can save either a couple of seconds or less than a second depending on how fast you do it.
 
 Go to the second part below.
@@ -488,6 +526,7 @@ Go to the second part below.
 #### Onedyne (2 PCEs + 1 weird wrong warp + Cutscene skip)
 
 Note: This version is more difficult than the other two versions.
+
 Walk into the room and begin moving up the path. PCE the first trigger. You will need to PCE the second trigger extremely quickly after PCEing the first to pull this off. After PCEing the 2nd trigger, PCA Undyne’s text and mash it until you get to the “Here I come” text. This text will disappear 30 frames after it appears, and you will want to be in the room transition when the text disappears. This method saves 20 seconds over one-cycle. A video guide for this method can be seen below.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
